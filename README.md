@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Some Numbers
+
+<a href="https://github.com/markti/markti">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=markti&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/markti/markti">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markti&show_icons=true&theme=cobalt&hide=javascript,css" />
+</a>
