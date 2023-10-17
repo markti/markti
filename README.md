@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Azure.
+- 💬 Ask me about Azure and Terraform.
+- 📫 How to reach me: https://bento.me/markti
+- ⚡ Fun fact: I ❤️ LEGOS
 <!-- 
 - 🌱 I’m currently learning more about Zonal Resilliency.
 - 👯 I’m looking to collaborate on Terraform Modules.
 - 🤔 I’m looking for help with ...
 -->
-- 💬 Ask me about Azure and Terraform.
-- 📫 How to reach me: https://bento.me/markti
-- ⚡ Fun fact: I ❤️ LEGOS
 
 ## Some Numbers
 
