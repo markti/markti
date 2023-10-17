@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Azure.
-- 💬 Ask me about Azure and Terraform.
+- 💬 Ask me about designing solutions on Azure and automation with Terraform.
 - 👯 I’m looking to collaborate on [YouTube](https://www.youtube.com/@azure-terraformer)
 - 📫 How to reach me in [all the ways](https://bento.me/markti)
 - ⚡ Fun fact: I ❤️ LEGOS
