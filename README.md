@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Azure.
 - 💬 Ask me about Azure and Terraform.
 - 👯 I’m looking to collaborate on https://www.youtube.com/@azure-terraformer
-- 📫 How to reach me: https://bento.me/markti
+- 📫 How to reach me in (https://bento.me/markti)[all the ways]
 - ⚡ Fun fact: I ❤️ LEGOS
 <!-- 
 - 🌱 I’m currently learning more about Zonal Resilliency.
